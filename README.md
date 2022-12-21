@@ -32,7 +32,8 @@ rosrun control controller.py
 
 Desired waypoints: (0,0,0)->(0,0,1)->(1,0,1)->(1,1,1)->(0,1,1)->(0,0,1)
 
-![WhatsApp Image 2022-12-14 at 18 36 15](https://user-images.githubusercontent.com/55102632/207740761-de53e86f-b170-4325-89af-d95bffbbfb56.jpeg)
+
+![Screenshot from 2022-12-21 15-08-00](https://user-images.githubusercontent.com/55102632/208994103-4a8ab2a9-95f5-459f-bfec-c0a7fb8d575a.png)
 
 
 
