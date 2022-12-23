@@ -24,7 +24,7 @@ git clone -b dev/ros-noetic https://github.com/gsilano/CrazyS.git
 git clone -b med18_gazebo9 https://github.com/gsilano/mav_comm.git
 git clone https://github.com/Loahit5101/Sliding-Mode-Control-for-Quadrator-Trajectory-Tracking.git
 ```
-## Running the conroller
+## Running the controller
 ```
 rosrun control controller.py
 ```
