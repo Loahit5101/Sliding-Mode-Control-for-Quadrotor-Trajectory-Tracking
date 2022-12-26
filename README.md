@@ -29,11 +29,10 @@ git clone https://github.com/Loahit5101/Sliding-Mode-Control-for-Quadrator-Traje
 rosrun control controller.py
 ```
 ## Tracked Trajectory
+Desired waypoints: (0,0,0)->(0,0,1)->(1,0,1)->(1,1,1)->(0,1,1)->(0,0,1), following a quintic Polynomial trajectory
 
-Desired waypoints: (0,0,0)->(0,0,1)->(1,0,1)->(1,1,1)->(0,1,1)->(0,0,1)
+![traj](https://user-images.githubusercontent.com/55102632/209488652-4ba62794-203e-49c5-a689-36f0de5f1f4d.png)
 
-
-![Screenshot from 2022-12-21 15-08-00](https://user-images.githubusercontent.com/55102632/208994103-4a8ab2a9-95f5-459f-bfec-c0a7fb8d575a.png)
 
 
 
